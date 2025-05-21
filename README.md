@@ -58,7 +58,7 @@ This table clarifies how the raw column headings from the `ufo_sightings.csv` fi
 1. Clone the repository: 
      ```bash
    gh repo clone naveedamar/UFO-Sightings-Analyzer 
-3. Ensure your dataset is located at data/ufo_sightings.csv.
+3. Ensure your dataset is located at data/ufo_sightings.csv
 
 4. Run the project.py
     
