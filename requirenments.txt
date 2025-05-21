@@ -1,0 +1,12 @@
+This project does not require any pip-installable libraries 
+
+You only need the Python Standard Library:
+    csv
+    os
+    collections.Counter
+    json
+
+If you'd like to work with virtual environments:
+    python -m venv venv
+    source venv/bin/activate  
+        # On Windows: venv\Scripts\activate
